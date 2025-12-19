@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\obj\Debug\net9.0\objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\obj\Debug\net9.0\objetos.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\obj\Debug\net9.0\objetos.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\obj\Debug\net9.0\objetos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\bin\Debug\net9.0\objetos.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\bin\Debug\net9.0\objetos.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\bin\Debug\net9.0\objetos.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\bin\Debug\net9.0\objetos.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\bin\Debug\net9.0\objetos.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\obj\Debug\net9.0\objetos.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\obj\Debug\net9.0\refint\objetos.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\obj\Debug\net9.0\objetos.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\obj\Debug\net9.0\objetos.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\objetos\obj\Debug\net9.0\ref\objetos.dll

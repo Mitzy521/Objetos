@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\obj\Debug\net9.0\obvehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\obj\Debug\net9.0\obvehiculo.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\obj\Debug\net9.0\obvehiculo.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\obj\Debug\net9.0\obvehiculo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\bin\Debug\net9.0\obvehiculo.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\bin\Debug\net9.0\obvehiculo.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\bin\Debug\net9.0\obvehiculo.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\bin\Debug\net9.0\obvehiculo.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\bin\Debug\net9.0\obvehiculo.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\obj\Debug\net9.0\obvehiculo.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\obj\Debug\net9.0\refint\obvehiculo.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\obj\Debug\net9.0\obvehiculo.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\obj\Debug\net9.0\obvehiculo.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\obvehiculo\obj\Debug\net9.0\ref\obvehiculo.dll
